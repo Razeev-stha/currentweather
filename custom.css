@@ -1,0 +1,42 @@
+.top{
+   margin-top: 0px;
+   padding-top: 20px;
+   font-size: 60px;
+   padding-bottom: 30px;
+}
+
+.line{
+ width: 150px;
+ margin-top: 0px;
+ background-color: #46d3e3;
+}
+
+#switch{
+  font-size: 12px;
+  border-radius: 2px;
+  color: black;
+  background-color:transparent;
+  border-color:white;
+
+}
+
+.short{
+  width: 120px;
+  background-color: white;
+}
+
+.down{
+  padding-top: 0px;
+  margin-top: 160px;
+}
+
+body{
+    background-size: cover;
+  background-attachment: fixed;
+  background: linear-gradient(130deg,#62e3cd,#4ee346);
+  color: #918966;
+ 
+}
+.up{
+  
+}
